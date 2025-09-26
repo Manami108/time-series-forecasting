@@ -60,3 +60,4 @@ The dataset link is included in the project.
 
 This project thoroughly analyzed the demand and usage for power consumption based on historical data while utilizing various frameworks and methods to forecast future power consumption. The discovered patterns, trends, and accurate predictions are essential for power suppliers in determining future strategies. Therefore, it is crucial to aim for an expansion of knowledge and techniques, along with achieving even higher accuracy in predictions.
 
+The detail insights of each analysis and results are described in the project.
